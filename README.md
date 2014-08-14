@@ -14,7 +14,8 @@ Step by Step to deploy application to Bluemix from Web IDE
 ====================
 1. Access https://hub.jazz.net/project/arzetry/nodeJS-bluemix/overview to get sample code from IBM JazzHub site.
 2. Click "Edit Code" 
-截图 editcode.png
+
+![image](https://github.com/acostry/nodeJS-bluemix-devops/tree/master/nodeJS-bluemix/pics/editcode.png)
 3. Click "FORK" to fork sample application to your own Jazz repository.
 截图 fork.png
 4. Go into your own repository, click "Deploy AS" to select deploy application to Bluemix, you need to set the Org/Space for the applcation, wait a min, you will see the successful massage about deployment.
